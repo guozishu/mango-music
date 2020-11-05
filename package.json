@@ -1,0 +1,19 @@
+{
+  "name": "music",
+  "version": "1.0.0",
+  "description": "listen music",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "music"
+  ],
+  "type": "module",
+  "author": "wanglong",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "koa-body": "^4.2.0"
+  }
+}
